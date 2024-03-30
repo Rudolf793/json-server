@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ru.mobsted.ins5574141.twa",
+      "sha256_cert_fingerprints": [
+        "D0:EC:A6:E9:C1:81:D6:68:C4:68:8C:02:27:67:06:98:EA:2C:8F:36:B7:EC:E0:4E:EC:56:F4:5E:C3:FF:41:22"
+      ]
+    }
+  }
+]
